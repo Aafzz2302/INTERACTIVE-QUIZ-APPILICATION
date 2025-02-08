@@ -1,10 +1,17 @@
 # INTERACTIVE-QUIZ-APPILICATION
-COMPANY : CODTECH IT SOLUTION
-NAME : AAFRIN BANU
-INTERN ID : CT08RKJ
-DOMAIN : FRONT END DEVELOPMENT
-DURATION : 4 WEEKS
-MENTOR : NEELA SANTOSH
+
+**COMPANY : CODTECH IT SOLUTION**
+
+**NAME : AAFRIN BANU**
+
+**INTERN ID : CT08RKJ**
+
+**DOMAIN : FRONT END DEVELOPMENT**
+
+**DURATION : 4 WEEKS**
+
+**MENTOR : NEELA SANTOSH**
+
 
 ## **Python Tkinter Quiz Application**
 This program is a simple quiz application built using Python's Tkinter module for the graphical user interface (GUI). It allows users to answer multiple-choice questions and receive instant feedback on their responses. The quiz consists of a few predefined questions stored in a list, and the program tracks the user's score as they progress through the quiz.
