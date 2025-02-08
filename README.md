@@ -83,4 +83,8 @@ Adding images or animations for correct/incorrect answers would make the quiz mo
 
 **Conclusion **
 This Python Tkinter Quiz Application is a great beginner-friendly project for learning about GUIs, event-driven programming, and user interaction. It demonstrates dynamic question handling, instant feedback, and score tracking, making it both fun and educational. With additional features, it could become a more advanced interactive quiz platform! ##
+
+output:
+
+![Image](https://github.com/user-attachments/assets/a1157771-893d-4abb-9618-603c84511993)
   
